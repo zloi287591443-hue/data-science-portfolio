@@ -1,5 +1,5 @@
 # data-science-portfolio
-# [你的名字]'s Data Science Portfolio
+#Zhang Loi's Data Science Portfolio
 
 ## About Me
 Hello! I am a student passionate about data analysis and financial modeling. This portfolio showcases my data science projects and technical skills.
